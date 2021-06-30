@@ -7,7 +7,7 @@ The purpose of this analysis is to use a credit card credit dataset from Lending
 
 I will list the accuracy results of each model below with screenshots from the data. 
 
-- Random Over Sampling:
+### - Random Over Sampling:
 
 ![ROS_Scores.png](Pictures/ROS_Scores.png)
 
