@@ -1,10 +1,23 @@
 # Credit_Risk_Analysis
 
 ## Overview of the analysis: 
-Explain the purpose of this analysis.
+The purpose of this analysis is to use a credit card credit dataset from LendingClub, a peer-to-peer lending services company, to determine which factors make a credit card application high or low risk for a lender. 
 
 ## Results: 
-Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
+
+I will list the accuracy results of each model below with screenshots from the data. 
+
+- Random Over Sampling:
+
+![ROS_Scores.png](Pictures/ROS_Scores.png)
+
+- SMOTE Over Sampling:
+- Cluster Centroids Over Sampling: 
+- SMOTEENN:
+- Balanced Random Forest Classifier:
+- Easy Ensemble Adaboost Classifier:
+
+
 
 ## Summary: 
 
