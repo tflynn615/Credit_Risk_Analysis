@@ -12,10 +12,24 @@ I will list the accuracy results of each model below with screenshots from the d
 ![ROS_Scores.png](Pictures/ROS_Scores.png)
 
 - SMOTE Over Sampling:
+
+![Smote_Scores.png](Pictures/Smote_Scores.png)
+
 - Cluster Centroids Over Sampling: 
+
+![Cluster_Scores.png](Pictures/Cluster_Scores.png)
+
 - SMOTEENN:
+
+![SMOTEENN_Scores.png](Pictures/SMOTEENN_Scores.png)
+
 - Balanced Random Forest Classifier:
+
+![RF_Scores.png](Pictures/RF_Scores.png)
+
 - Easy Ensemble Adaboost Classifier:
+
+![ee_scores.png](Pictures/ee_scores.png)
 
 
 
