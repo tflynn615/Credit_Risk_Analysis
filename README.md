@@ -35,4 +35,4 @@ I will list the accuracy results of each model below with screenshots from the d
 
 ## Summary: 
 
-Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
+In summary, the accuracy scores for five of the the six supervised machine learning methods used range between 51% and 67% with the exception of the Easy Ensemble mehtod which is about 91% accurate. For this reason, I recommend the Easy Ensemble method to identify loans for auto acception because you want to minimize the risk that you accept as a lender. This model will most accurately identify applications that closely align with this model saving loan agents' time to review those applications which do not closely align with the identified influencing factors.  
